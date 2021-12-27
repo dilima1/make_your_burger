@@ -98,7 +98,7 @@
         "Cheddar",
         "Tomate"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 5
     },
     {
@@ -108,7 +108,7 @@
       "opcionais": [
         "Bacon"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 9
     },
     {
@@ -154,6 +154,17 @@
       ],
       "status": "Solicitado",
       "id": 15
+    },
+    {
+      "nome": "Zenildo",
+      "carne": "Veggie burger",
+      "pao": "Integral",
+      "opcionais": [
+        "Tomate",
+        "Pepino"
+      ],
+      "status": "Solicitado",
+      "id": 16
     }
   ]
 }
