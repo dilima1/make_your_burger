@@ -86,20 +86,8 @@
         "Bacon",
         "Tomate"
       ],
-      "status": "Solicitado",
-      "id": 1
-    },
-    {
-      "nome": "Edilson",
-      "carne": "Picanha",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Bacon",
-        "Cheddar",
-        "Tomate"
-      ],
       "status": "Em produção",
-      "id": 5
+      "id": 1
     },
     {
       "nome": "Julia",
